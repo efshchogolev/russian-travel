@@ -2,7 +2,7 @@
 .root{
   background-color: #2A2C2F;
   color: #fff;
-  font-family: 'Inter';
+  font-family: 'Inter', 'Arial', 'Helvetica';
   max-width: 100%;
   margin: 0 auto;
   -webkit-font-smoothing: antialiased;
