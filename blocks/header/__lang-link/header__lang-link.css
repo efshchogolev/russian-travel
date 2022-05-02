@@ -8,9 +8,6 @@
   transition: opacity .3s ease-in-out;
 }
 
-.header__lang-link:last-child {
-  text-decoration: none;
-}
 .header__lang-link:hover {
   opacity: .5;
 }
