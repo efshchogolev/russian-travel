@@ -1,0 +1,11 @@
+.place__text-area {
+  display: flex;
+  flex-direction: column;
+  min-width: none;
+}
+
+@media screen and (max-width: 767px) {
+  .place__text-area {
+    margin: 0 16px 0;
+  }
+}
