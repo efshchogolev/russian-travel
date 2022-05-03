@@ -2,11 +2,4 @@
   width: 100%;
   min-width: 100%;
   object-fit: contain;
-  margin-top: 64px;
-}
-
-@media  screen and (max-width: 1279px) {
-  .lead__image {
-    margin-top: 56px;
-  }
 }
