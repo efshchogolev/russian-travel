@@ -2,6 +2,7 @@
 .root{
   background-color: #2A2C2F;
   color: #fff;
+  min-width: 320px;
   font-family: 'Inter', 'Arial', 'Helvetica';
   max-width: 100%;
   margin: 0 auto;
